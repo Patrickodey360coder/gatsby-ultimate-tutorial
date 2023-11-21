@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Storyblok Gatsby Ultimate Tutorial
 
 In this tutorial series, you will learn how to build a headless website using Storyblok and Gatsby. Starting with the fundamental integration of Storyblok in Gatsby, more advanced functionalities are explained in bite-sized content pieces, such as dynamic page rendering, dynamic menus, custom components, multilingual content and more.
@@ -136,4 +135,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
->>>>>>> gatsby5-config
+
