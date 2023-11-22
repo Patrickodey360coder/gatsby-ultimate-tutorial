@@ -10,7 +10,7 @@ const IndexPage = ({ data }) => {
 
   return (
     <Layout>
-      <StoryblokStory story={data.storyblokEntry} />
+      <StoryblokStory story={data.storyblokEntry}/>
     </Layout>
   )
 }
